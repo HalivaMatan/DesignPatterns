@@ -43,9 +43,11 @@
     <Compile Include="EmailSender.cs" />
     <Compile Include="IMessageSender.cs" />
     <Compile Include="Message.cs" />
+    <Compile Include="MsmqSender.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SystemMessage.cs" />
     <Compile Include="UserMessage.cs" />
+    <Compile Include="WebServiceSender.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

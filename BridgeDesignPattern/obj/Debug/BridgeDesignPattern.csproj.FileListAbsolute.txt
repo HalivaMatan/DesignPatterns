@@ -1,0 +1,5 @@
+C:\Users\Haliva\Desktop\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\BridgeDesignPattern.dll
+C:\Users\Haliva\Desktop\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\BridgeDesignPattern.pdb
+C:\Users\Haliva\Desktop\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.csprojResolveAssemblyReference.cache
+C:\Users\Haliva\Desktop\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.dll
+C:\Users\Haliva\Desktop\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.pdb

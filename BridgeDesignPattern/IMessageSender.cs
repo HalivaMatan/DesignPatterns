@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace BridgeDesignPattern
+﻿namespace BridgeDesignPattern
 {
     /// <summary>
     /// The 'Bridge/Implementor' interface
@@ -9,5 +7,4 @@ namespace BridgeDesignPattern
     {
         void SendMessage(string subject, string body);
     }
-
 }
